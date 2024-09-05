@@ -1,0 +1,20 @@
+{
+    "Foret_de_leo": [
+        {
+            "name": "bucheron_map1",
+            "bois": [
+                [300, 400]
+            ],
+            "change_position": [600, 700]
+        }
+    ],
+    "Foret_de_armand": [
+        {
+            "name": "bucheron_map1",
+            "bois": [
+                [300, 400]
+            ],
+            "change_position": [600, 700]
+        }
+    ]
+}

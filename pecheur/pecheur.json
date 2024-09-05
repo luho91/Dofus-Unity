@@ -1,0 +1,20 @@
+{
+    "Zone1": [
+        {
+            "name": "bucheron_map1",
+            "poisson": [
+                [300, 400]
+            ],
+            "change_position": [600, 700]
+        }
+    ],
+    "Zone2": [
+        {
+            "name": "bucheron_map1",
+            "poisson": [
+                [300, 400]
+            ],
+            "change_position": [600, 700]
+        }
+    ]
+}
